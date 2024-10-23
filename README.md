@@ -21,13 +21,13 @@ The Pomodoro app allows users to set a pomodoro timer, a short break timer and a
 
 ### Screenshot
 
--   [An Image Showing the pomodoro app in a larger screen size with the settings dialog open](./screenshots/timer_ls_config.png)
--   [An Image Showing the pomodoro app in a small screen size while in use](./screenshots/timer_mobile_in_use.png)
+-   ![An Image Showing the pomodoro app in a larger screen size with the settings dialog open](./screenshots/timer_ls_config.png)
+-   ![An Image Showing the pomodoro app in a small screen size while in use](./screenshots/timer_mobile_in_use.png)
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Github](https://github.com/joeehis1/pomodoro-app)
+-   Live Site URL: [Site](https://pomo-interval.netlify.app/)
 
 ## My process
 
